@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Hoskins, Gayle Porter
     birthdate: 1887
-    deathdate: &id001 1962
+    deathdate: 1962
     gutenberg_agent_id: '32695'
     url: http://www.gutenberg.org/2009/agents/32695
 covers:
@@ -14,10 +14,12 @@ creator:
   author:
     agent_name: Lockhart, Caroline
     birthdate: 1870
-    deathdate: *id001
+    deathdate: 1962
     gutenberg_agent_id: '25774'
     url: http://www.gutenberg.org/2009/agents/25774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23304#The-Lady-Doc
 gutenberg_issued: '2007-11-03'
 gutenberg_type: Text
 identifiers:
